@@ -39,7 +39,7 @@ class AVLTree:
     Computes the maximum number of levels there are
     in the tree
     """
-    def update_height(self):
+    def update_height(self, level=0):
         pass
 
     """
